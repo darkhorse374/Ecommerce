@@ -10,7 +10,7 @@ import (
 	"github.com/shpota/goxygen/static"
 )
 
-type generator struct {
+type generator struct { 
 	projectName string
 	techStack   []string
 }
